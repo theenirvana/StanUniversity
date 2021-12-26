@@ -1,0 +1,170 @@
+*{
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+.header{
+    background-image:linear-gradient(rgba(44, 80, 82, 0.53), rgba(0, 0, 0, 0.74)) ,url(img/clg.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover;
+    height:90vh;
+}
+.Navigation-clg{
+    background-color: #075548;
+    width: 100%;
+}
+.nav-t{
+    margin-left: 15rem;
+}
+.nav-head{
+    margin-left: 2rem;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+.clg-heading{
+    position: absolute;
+    color: aliceblue;
+    font-size: 3.5rem;
+    top:45%;
+    left:13%;
+}
+.clg-slogan{
+    font-size: 2rem;
+    margin-top:10px;
+}
+.middle-section{
+    background-color: rgba(95, 158, 160, 0.17);
+}
+.Founder-Vision-Section{
+    margin:0 3% 3% 3% ;
+}
+.FV-Heading{
+    padding:5% 3% 3% 0% ;
+    font-size: 26px;
+    color:#075548;
+}
+img{
+    width:10em;
+    height:11em;
+}
+.founder-intro{
+    padding:0 0% 0 2%;
+}
+.img-column{
+    width:100%;
+}
+.columns{
+    margin:0 2% 0 2%;
+    font-size: 12px;
+    text-align: justify;
+}
+
+.Our-Intro{
+    background-color: rgb(20, 87, 87);
+    margin:2rem 0 0 0 ;
+    height: 50vh;
+    border-radius: 4rem;
+    text-align: center;
+    color: white;
+}
+.intro-table{
+    margin:3rem 0 0 11rem;
+    padding:2rem  0 0 0;
+}
+.list{
+    padding:1rem 3rem 2rem 0;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+i{
+    font-size: 3rem;
+}
+
+
+
+
+.dropbtn {
+    color: white;
+    padding: 16px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+  }
+  
+
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #075548;
+    width: 8rem;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    font-size: 15px;
+  }
+  
+  .dropdown-content a, .nav-page-link{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    
+  }
+  .show {display: block;}
+
+
+
+  .recuriter-list{
+    margin-left: 10rem;
+    display: block;
+    width:75%;
+  }
+  .recuriter-list-c1{
+      margin-left: 5rem;
+  }
+
+
+  .footer{
+    background-color: #0d5749dc;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover;
+    height:40vh;    
+    color: white;
+  }
+  .footer-info{
+      padding: 2% 0 0% 5%;      
+  }
+.f-head{
+    text-align: left;
+    font-size: 1.6rem;
+}
+.footer-r{
+    padding-top: 1rem;
+}
+.clg-column{
+    padding: 0  3rem 0 3rem;
+    border-left: 0.1rem solid white;
+    margin-left: 1rem;
+}
+.clg-head{
+    font-size: 1.9rem;
+}
+.clg-para{
+    font-size: 0.9rem;
+}
+.copy{
+    margin-left: 1rem;
+    padding-top: 1rem;
+}

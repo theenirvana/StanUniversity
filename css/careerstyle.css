@@ -1,0 +1,17 @@
+.career-head{
+    margin: 3rem 0 0 5rem;
+    color:#075548;
+}
+#h-1{
+    padding: 1rem;
+    font-size: 1.9rem;
+}
+#p-1{
+    text-align: justify;
+    padding: 1rem 6rem 1rem 1rem;
+    color: black;
+}
+.row{
+    width:70%;
+    padding: 1.3rem 1rem 1rem 10rem;
+}
